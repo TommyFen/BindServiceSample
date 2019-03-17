@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bind-Service-Sample</string>
+    <string name="bind_service_sample">Bind Service Sample</string>
+    <string name="bind_service">Bind Service</string>
+    <string name="unbind_service">Unbind Service</string>
+    <string name="state_bind_service">service binding---</string>
+    <string name="send_msg_to_service">Send msg to Service</string>
+</resources>
